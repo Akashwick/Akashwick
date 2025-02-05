@@ -2,7 +2,8 @@
 - 👀 I’m interested in electronics
 - 🌱 I’m currently learning pic microcontroller
 - 💞️ I’m looking to collaborate on no one
-- 📫 How to reach me akash10m203@gmail.com
+- 📫 How to reach me akashramchandramohan@gmail.com
+- This is my linkedIn linkedin.com/in/akash-ram-mohan
 
 <!---
 Akashram/Akashram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
